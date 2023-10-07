@@ -1,4 +1,4 @@
-https://davit-kirakosyan.github.io/portfolio/
+https://davit-kirakosyan.github.io/
 
 
 
